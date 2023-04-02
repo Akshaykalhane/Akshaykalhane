@@ -1,7 +1,6 @@
 ## Hello World, I'm Akshay 👋
 
-### I'm a Full stack web developer (MERN)  who loves to create web apps! 👽
-- 🔭 I’m currently doing my full stack web developer internship  program from Edureka👩🏻‍💻
+### I'm a Full stack web developer (MERN)  who loves to create web apps! 👽🏻‍💻
 - 🌱 I’m currently gaining new skills in web development
 - 👯 I’m looking for remote job
 - 📫 How to reach me: [Instagram](https://www.instagram.com/akshay_kalhane_official/)

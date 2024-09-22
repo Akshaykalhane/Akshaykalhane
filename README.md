@@ -1,9 +1,9 @@
 ## Hello World, I'm Akshay 👋
 
-### I'm a Full stack web developer (MERN)  who loves to create web apps! 👽🏻‍💻
+### I'm a passionate Full Stack Web Developer (MERN) with a love for building dynamic and innovative web applications! 👽💻
 - 🌱 I’m currently gaining new skills in web development
 - 👯 I’m looking for remote job
-- 📫 How to reach me: [Instagram](https://www.instagram.com/akshay_kalhane_official/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/akshay_kalhane)
 
 
 <br />
